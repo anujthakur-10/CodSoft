@@ -1,2 +1,2 @@
 # CodSoft
-This is my Machine Learning Internship Projects.
+These are my Machine Learning Internship Projects.
